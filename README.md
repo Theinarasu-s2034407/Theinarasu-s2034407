@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+_________________________________________________________________________________________________________________________________
+
 <p>Welcome to my GitHub profile! I'm currently working as a software engineer in the insurance sector, with a primary focus on full-stack development.</p>
 
 <p>I find coding enjoyable because it enables me to tackle complex problems and turn ideas into reality. There’s a real sense of fulfillment in creating something from the ground up and watching it come together seamlessly. Programming also provides limitless opportunities for learning and growth—whether it’s exploring new technologies, refining code, or coming up with innovative solutions to challenges. The ever-changing nature of the tech world keeps me motivated and eager about the future of programming.<p>
 
 How to reach me: Feel free to connect with me here on GitHub or email me at [s2034407@siswa.um.edu.my]. 
+
+_________________________________________________________________________________________________________________________________
+
 
 **What I have experienced**
 
@@ -40,5 +45,7 @@ How to reach me: Feel free to connect with me here on GitHub or email me at [s20
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=suhadaudd&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in) 
+
+_________________________________________________________________________________________________________________________________
 
 
